@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently adding my projects here old and new 
-🌱 I’m currently learning how to bring some of my ideas to fruition
-👯 I’m looking to collaborate on some music-related apps
+- 🔭 I’m currently adding my projects here old and new 
+- 🌱 I’m currently learning how to bring some of my ideas to fruition
+- 👯 I’m looking to collaborate on some music-related apps
 
 <!--
 **jbm-projects/jbm-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
