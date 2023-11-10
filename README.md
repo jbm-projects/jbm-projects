@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently updating this page
-- 🌱 I’m currently learning how to bring some of my ideas to fruition
+- 🌱 I’m learning how to bring some of my ideas to fruition
 - 👯 I’m looking to collaborate on some music-related apps
 
 <!--
